@@ -39,3 +39,6 @@ Mold for suction cup. This was used in Version BBv2, BBv3 and SBv1.
 A fPN Design for experimental purpose. You can fix it at both ends, or mount devices. This design provides enough space.
 
 ![Image of CAD TestBench Actuator](https://github.com/larslevity/CADGeckoBot/blob/master/fPN_testBench_Actuator/testBench.PNG)
+
+![Image of CAD TestBench Actuator with Nipples](https://github.com/larslevity/CADGeckoBot/blob/master/fPN_testBench_Actuator/testBench_wNipples.PNG)
+
